@@ -22,7 +22,7 @@
             placeholder="Descripción Evento"
             rows="8"
         ><?php echo $evento->descripcion; ?></textarea>
-    </div>
+    </div> 
 
     <div class="formulario__campo">
         <label for="categoria" class="formulario__label">Categoría o Tipo de Evento</label>
